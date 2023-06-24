@@ -1,16 +1,11 @@
-### Hi there 👋
+Jest to skrypt w języku Python, stowrzyliśmy go w celach filtracji danych z Excela. Niektore dane wyświetlały się nieprawidłowo, ze znakami specjalnymi. Nasz skrypt pozwala usunąć nieprawidłowe dane pobierając je z pliku i zapisując wszystko co zgodne do nowego pliku.
 
-<!--
-**projektinf23/ProjektINF23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Wymagania do instalacji i użycia:
+* et-xmlfile==1.1.0
+* numpy==1.24.3
+* openpyxl==3.1.2
+* pandas==2.0.2 *
+* python-dateutil==2.8.2 
+* pytz==2023.3 
+* six==1.16.0 
+*  tzdata==2023.3
